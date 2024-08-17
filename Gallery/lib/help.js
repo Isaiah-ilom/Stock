@@ -2,13 +2,13 @@ const prefix = global.prefa
   const pushname = m.pushName || "No Name"
 
 const helpmenu=` 
-「 *Kish BOT* 」
+「 *Isaiah BOT* 」
 ♡ۣۜۜ፝͜͜͡͡✿➤ *INFO BOT*
-  ♡ۣۜۜ፝͜͜͡͡✿➤ Name: Kish BOT
+  ♡ۣۜۜ፝͜͜͡͡✿➤ Name: Isaiah BOT
   ♡ۣۜۜ፝͜͜͡͡✿➤ Version: 1.0
   ♡ۣۜۜ፝͜͜͡͡✿➤ Type: VPS
-  ♡ۣۜۜ፝͜͜͡͡✿➤ 0wner: Brasho-Kish
-  ♡ۣۜۜ፝͜͜͡͡✿➤ wa.me/919931122319
+  ♡ۣۜۜ፝͜͜͡͡✿➤ 0wner: Isaiah scholar
+  ♡ۣۜۜ፝͜͜͡͡✿➤ wa.me/2348180146181
   ♡ۣۜۜ፝͜͜͡͡✿➤ Prefix: 「  ${prefix}  」
  ♡ۣۜۜ፝͜͜͡͡✿➤ Total cmd: 51
  ♡ۣۜۜ፝͜͜͡͡✿➤Menu Type:Menu
@@ -77,9 +77,9 @@ const helpmenu=`
 
 🌹𝒎𝒐𝒓𝒆 𝒄𝒐𝒎𝒎𝒂𝒏𝒅𝒔 𝒄𝒐𝒎𝒊𝒏𝒈 𝒔𝒐𝒐𝒏
 
-『 Kish-Md 』
+『 Raphael-Md 』
    Based on: Miku, 
-   created by : Brasho Kish
-   @Kish botz inc 
+   created by : Isaiah scholar
+   @Raphael scholar inc 
 `
 module.exports = menu
